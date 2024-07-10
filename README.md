@@ -41,5 +41,5 @@
 <hr>
 
 <!--Visitor Counter-->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ecevah&color=blueviolet&label=VISITORS" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ecevah&color=blue&label=VISITORS" /> </div>
 # ecevah
