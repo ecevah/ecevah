@@ -8,6 +8,8 @@
   <p align="center">
     <a href="https://www.instagram.com/eecevah" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
     <a href="https://www.linkedin.com/in/ahmet-ecevit/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
+        <a href="https://www.ahmetecevit.com" target="_blank"><img src="./img/website.svg" width="36" alt="Website"/><a/>
+
   </p> 
  <br>
   <h2>About Me</h2>
