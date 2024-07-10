@@ -6,9 +6,8 @@
   <br><br>
   <!--Social Media -->
   <p align="center">
-    <a href="https://www.instagram.com/berkay.crk/" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
-    <a href="https://twitter.com/0x_berkay" target="_blank"><img src="./img/twitter-original.svg" width="36"  alt="Twitter" /><a/>
-    <a href="https://www.linkedin.com/in/berkaycrk/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
+    <a href="https://www.instagram.com/eecevah" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
+    <a href="https://www.linkedin.com/in/ahmet-ecevit/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
   </p> 
  <br>
   <h2>About Me</h2>
@@ -38,7 +37,6 @@
     <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
 
   </p>
-
 
 <hr>
 
