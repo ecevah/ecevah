@@ -2,13 +2,13 @@
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/81809211/160313310-d13df468-0e79-4b47-8c4b-531632fb2e63.gif" alt="transparent-welcome" />
-  <img  src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" alt="transparent-coder" height=500 />
+  <img  src="https://user-images.githubusercontent.com/81809211/160313931-dcf2e5a1-fcb1-4260-9b99-8a43a95b76b4.gif" alt="transparent-coder" height=200 />
   <br><br>
   <!--Social Media -->
   <p align="center">
     <a href="https://www.instagram.com/eecevah" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
     <a href="https://www.linkedin.com/in/ahmet-ecevit/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
-        <a href="https://www.ahmetecevit.com" target="_blank"><img src="./img/website.svg" width="36" alt="Website"/><a/>
+    <a href="https://www.ahmetecevit.com" target="_blank"><img src="./img/website.svg" width="36" alt="Website"/><a/>
 
   </p> 
  <br>
