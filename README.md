@@ -1,26 +1,15 @@
 <!--Cover -->
 
 <div align="center">
-  <img src="./img//champ.jpg">
+  <img src="./img//champ.jpg" width="400">
   <br><br>
   <!--Social Media -->
   <p align="center">
-    <a href="https://www.instagram.com/eecevah" target="_blank">
-      <img src="./img/Instagram.svg" width="36" alt="Instagram"/>
-      <br>Instagram
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ahmet-ecevit/" target="_blank">
-      <img src="./img/linkedin-original.svg" width="36" alt="Linkedin"/>
-      <br>Linkedin
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.ahmetecevit.com" target="_blank">
-      <img src="./img/website.svg" width="36" alt="Website"/>
-      <br>Website
-    </a>
+    <a href="https://www.instagram.com/eecevah" target="_blank"><img src="./img/Instagram.svg" width="36" alt="Instagram"/><a/>
+    <a href="https://www.linkedin.com/in/ahmet-ecevit/" target="_blank"><img src="./img/linkedin-original.svg" width="36" alt="Linkedin" /><a/>
+    <a href="https://www.ahmetecevit.com" target="_blank"><img src="./img/website.svg" width="36" alt="Website"/><a/>
   </p> 
-  <br>
+ <br>
   <h2>About Me</h2>
   <br>
   <p><strong>Hello everyone, I'm Ahmet- 24 years old Turkish coder<br><br> 
@@ -46,6 +35,7 @@
     <img src="./img/sass-original.svg" width="56"  alt="Sass" />
     <img src="./img/git.svg" width="56"  alt="Git" />
     <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
+
   </p>
 
 <hr>
