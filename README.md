@@ -26,12 +26,11 @@
   <h2 align="center">Languages & Tools</h2>
   <br>
   <p align="center">
-    <img src="./img/html.png" width="64"  alt="HTML" />
-    <img src="./img/css.png" width="48"  alt="CSS" />
     <img src="./img/javascript-original.svg" width="56" alt="JavaScript" />
     <img src="./img/react-original.svg" width="56"  alt="React" />
     <img src="./img/next.png" width="56"  alt="Nextjs" />
     <img src="./img/Node.js.svg" width="80"  alt="NodeJS" />
+    <img src="./img/flutter.png" width="56" alt="Flutter" />
     <img src="./img/sass-original.svg" width="56"  alt="Sass" />
     <img src="./img/git.svg" width="56"  alt="Git" />
     <img src="./img/tailwind.svg" width="56"  alt="Tailwind" />
