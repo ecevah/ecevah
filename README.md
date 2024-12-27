@@ -1,6 +1,6 @@
 <!--Cover -->
 <div align="center">
-  <img src="./img/champ.jpg" width="400">
+  <img src="./img/me.jpg" width="400">
   <br><br>
 
   <!--Social Media -->
